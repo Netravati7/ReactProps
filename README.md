@@ -1,2 +1,2 @@
-# ReactProps
+# ReactProperties
 Created with CodeSandbox
